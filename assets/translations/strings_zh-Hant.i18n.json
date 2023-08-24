@@ -1,0 +1,119 @@
+{
+  "or": "或者",
+  "numberRegistered": "此號碼已經註冊，請直接登錄",
+  "UserNotRegistered": "未找到匹配的用戶信息，請檢查您的輸入",
+  "PwsNotMatch": "密碼錯誤，請核對後再試",
+  "contactIsBlocked": "該用戶已經被你列入黑名單，暫時無法添加",
+  "contactExists": "聯繫人已存在，無需添加",
+  "you": "您",
+  "cancel": "放弃",
+  "ok": "确定",
+  "next": "下一步",
+  "skip": "跳過",
+  "start": "開始",
+  "regular": {
+    "reStart": "重啟",
+    "reStartRequire": "App需要重新啟動",
+    "locationPermission": "位置信息權限許可",
+    "locationPermissionDesc": "TimeCept希望你能同意使用特定的位置，TimeCept有一個核心功能可以與聊天對象共用位置，方便互相發現周邊的娛樂資訊。 TimeCept尊重用戶的隱私，不會在任何時候任何位置保存使用者的位置資訊",
+    "locationPermissionRefuse": "如果拒絕就意味著在聊天中，共享位置功能將不能使用"
+  },
+  "welcome": {
+    "screen2": "共用周邊，身臨其境",
+    "screen3": "預約發送，隨時聯繫",
+    "addFriend": "新增聯繫人",
+    "scanQrcode": "掃碼",
+    "rules": "點擊注册，即表示你同意接受我們的條款、隱私權政策和 Cookie 政策"
+  },
+  "login": {
+    "welcome": "朋友\n歡迎回來",
+    "makeAccount": "請創建你的帳戶\n開始使用timeCept",
+    "login": "登錄",
+    "signUp": "註冊",
+    "haveAccount": "已經註冊過了? ",
+    "noAccount": "還沒有註冊? ",
+    "tel": "電話",
+    "name": "稱呼",
+    "pws": "密碼",
+    "pwsAgain": "再次輸入密碼",
+    "forget": "忘記密碼?",
+    "registerDone": "註冊成功，歡迎使用"
+  },
+  "error": {
+    "invalidNumber": "不正確的電話號碼",
+    "pwsNotMatch": "兩次輸入的密碼不一致，請檢查",
+    "invalidNameLegth": "名稱長度應該在2到24個字元之間",
+    "pwsIsTooSimple": "密碼長度至少應該超過8位元，包括至少一個數位和一個字母"
+  },
+  "message": {
+    "message": "消息",
+    "contact": "通訊錄",
+    "surrounding": "周邊与定位",
+    "myself": "我",
+    "send": "發送",
+    "shareLocation": "与$person共享你的位置",
+    "notShareLocation": "停止共享",
+    "shareingLocation": "正在與您共享他的位置",
+    "deleteLocal": "僅刪除您程序中的信息",
+    "deleteAll": "從所有用戶App中刪除這條信息",
+    "delFrom": "你確定要刪除來自的$from信息嗎",
+    "confirmDel": "你確定要刪除这条信息嗎",
+    "hello": "陌生使用者正在和你打招呼，他的电话是",
+    "forward": "選擇一個聊天轉發消息",
+    "chatList": "最近的聊天"
+  },
+  "contact": {
+    "newContact": "新增連絡人",
+    "inputNumber": "請輸入聯繫人電話",
+    "add":"添加到通訊錄",
+    "block": "拒絕",
+    "foundUser": "找到用户",
+    "done": "添加完成",
+    "message": "發送信息",
+    "remove": "删除",
+    "addRequirement": "發送者不在您的通訊錄內",
+    "deleteConfirm":"确定要删除此联络人吗？ 该操作将同时删除你们之间所有的对话"
+  },
+  "account": {
+    "noDisturbSchedule": "免打擾時間表設置",
+    "surrond": "周邊與定位設置",
+    "setting": "系統設置"
+  },
+  "setting": {
+    "language": "語言",
+    "theme": "選擇主題",
+    "aboutUs": "應用信息",
+    "exit": "退出",
+
+    "confirmToExit": "確定要退出嗎？退出以後無法收到任何信息",
+
+    "unregister": "永久登出（取消註冊）",
+    "unregisterMessage": "從系統中刪除所有與我相關的註冊及用戶資訊",
+    "privateAndSafety": "隱私與安全設置",
+    "cleanLocal": "清理本地數據",
+    "cleanLocalExplan": "清理手機上保存的數據，僅保存最近一個月的",
+    "cleanLocalConfirm": "確定要刪除本地保存的數據嗎？ 此操作不可以撤銷",
+    "unregisterConfirm": "确定要永久注销吗？此操作不可以撤销,如果选择确定，您的注册及用户信息将在最多24小时内被删除"
+
+  },
+  "FlexScheme": {
+    "bahamaBlue": "Bahama Blue",
+    "hippieBlue": "Hippie Blue",
+    "money": "Dollars Green",
+    "redWine": "Red Wine",
+    "mango": "Mango",
+    "greyLaw": "Grey Law",
+    "shark": "Shark",
+    "vesuviusBurn": "Vesuvius Burn",
+    "deepPurple": "Deep Purple",
+    "espresso": "Espresso",
+    "deepBlue": "Deep Blue Sea",
+    "jungle": "Jungle",
+    "ebonyClay": "Ebony Clay",
+    "brandBlue": "Brand Blue",
+    "gold": "Gold",
+    "indigo": "Indigo Night",
+    "outerSpace": "Outer Space",
+    "barossa": "Barossa"
+  }
+}

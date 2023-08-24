@@ -1,0 +1,118 @@
+{
+  "or": "or",
+  "numberRegistered": "This number is already registered, please use the number to log in",
+  "UserNotRegistered": "No matching user information found, please check your input",
+  "PwsNotMatch": "Incorrect password, please check and try again",
+  "contactIsBlocked": "The user has been blacklisted by you and cannot be added now",
+  "contactExists": "Contact already exists, no need to add",
+  "you": "you",
+  "cancel": "Cancel",
+  "ok": "Ok",
+  "next": "Next",
+  "skip": "Skip",
+  "start": "Start",
+  "welcome": {
+    "screen2": "Share the surrounding, Immerse yourself",
+    "screen3": "Message schedule, Contact anytime",
+    "addFriend": "Add contacts",
+    "scanQrcode": "Scan QRcode",
+    "rules": "By clicking Register, you agree to accept our Terms of Service, Privacy Policy and Cookie Policy"
+  },
+  "regular": {
+    "reStart": "Restart",
+    "reStartRequire": "App needs to be restarted",
+    "locationPermission": "Permission to access location",
+    "locationPermissionDesc": "TimeCept needs your consent to use the special location,App can help you  share your location with your chat partner, so that you can discover entertainment information around you.TimeCept respects the user's privacy and never save the user's location  at any time and anywhere",
+    "locationPermissionRefuse": "If you decline, it means that in the chat, the shared location function will not be available"
+
+  },
+  "login": {
+    "welcome": "Hello friend,\nWelcome Back",
+    "makeAccount": "Hello,friend,\nCreate Account",
+    "login": "Log In",
+    "signUp": "Sign Up",
+    "tel": "Telephone number",
+    "name": "Name",
+    "pws": "Password",
+    "pwsAgain": "Reenter password",
+    "haveAccount": "Already have an account? ",
+    "noAccount": "Don't have an account? ",
+    "forget": "Forgot Password?",
+    "registerDone": "Register successfully, you are welcome"
+  },
+  "error": {
+    "invalidNumber": "invalid mobile number",
+    "pwsNotMatch": "The two entered passwords do not match,please check",
+    "invalidNameLegth": "Name length should be between 2 and 24 characters",
+    "pwsIsTooSimple": "Password should be longer than 8 characters, contain at least one letter and at least one digital"
+  },
+  "message": {
+    "message": "Message",
+    "contact": "Contact",
+    "surrounding": "Location",
+    "myself": "Me",
+    "send": "Send",
+    "shareLocation": "$person got your location",
+    "notShareLocation": "Disable share location",
+    "shareingLocation": "is sharing his location with you",
+    "deleteLocal": "Only delete message from your App",
+    "deleteAll": "Delete this message from all users' Apps",
+    "delFrom": "Are you sure to delete the message from $from",
+    "confirmDel": "Are you sure to delete the message",
+    "hello": "The strange user is greeting you, this is his/her tel",
+    "forward": "Select a chat to forward",
+    "chatList": "Recent chats"
+  },
+  "contact": {
+    "newContact": "Add Contact",
+    "inputNumber": "Please input contact phone number",
+    "add":"Add to address book",
+    "block": "Refuse",
+    "foundUser": "Found user",
+    "done": "Add successfully",
+    "message": "Send Message",
+    "remove": "Remove",
+    "addRequirement": "The sender is not in your address book",
+    "deleteConfirm": "Are you sure to delete this contact? This will delete all conversations between you at the same time"
+  },
+  "account": {
+    "noDisturbSchedule": "Do not disturb schedule",
+    "surrond": "Nearby and location",
+    "setting": "Setting"
+  },
+  "setting": {
+    "theme": "Select theme",
+    "language": "Language",
+    "aboutUs": "About application",
+    "exit": "Log out",
+    "confirmToExit": "Are you sure to quit? Couldn't receive any messages after logging out",
+    "unregister": "Permanent cancellation (deregistration)",
+    "unregisterMessage": "Delete all registration and user information related to me from the system",
+    "privateAndSafety": "Privacy and security",
+    "cleanLocal": "Clean up local data",
+    "cleanLocalExplan": "Clean up the data saved on your phone and save only the last month's data",
+    "cleanLocalConfirm": "Are you sure you want to delete locally saved data? This action cannot be undone",
+    "unregisterConfirm": "Are you sure you want to sign out permanently? This action cannot be revoked, and if you choose OK, your registration and user information will be deleted within a maximum of 24 hours"
+
+  },
+  "FlexScheme": {
+    "bahamaBlue": "Bahama Blue",
+    "hippieBlue": "Hippie Blue",
+    "money": "Dollars Green",
+    "redWine": "Red Wine",
+    "mango": "Mango",
+    "greyLaw": "Grey Law",
+    "shark": "Shark",
+    "vesuviusBurn": "Vesuvius Burn",
+    "deepPurple": "Deep Purple",
+    "espresso": "Espresso",
+    "deepBlue": "Deep Blue Sea",
+    "jungle": "Jungle",
+    "ebonyClay": "Ebony Clay",
+    "brandBlue": "Brand Blue",
+    "gold": "Gold",
+    "indigo": "Indigo Night",
+    "outerSpace": "Outer Space",
+    "barossa": "Barossa"
+  }
+}

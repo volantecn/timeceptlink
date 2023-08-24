@@ -1,0 +1,1 @@
+import 'package:isar/isar.dart';part 'block_list_model.g.dart';@collectionclass BlockItem{  Id id = Isar.autoIncrement;  final DateTime? createDateTime;//通话建立的时间,  final String? contactId;  BlockItem({this.contactId}):createDateTime=DateTime.now();}
