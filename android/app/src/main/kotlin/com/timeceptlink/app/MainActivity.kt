@@ -1,4 +1,4 @@
-package timeceptlink.com.app_ios
+package com.timeceptlink.app
 
 import io.flutter.embedding.android.FlutterActivity
 

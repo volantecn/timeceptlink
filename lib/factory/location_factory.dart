@@ -132,6 +132,7 @@ class LocationFactory extends GetxController{
           allowToGetLocation=true;
 
 
+          setaskAgain(true);
 
           await _prefs.setBool("allowToGetLocation", true);
         }

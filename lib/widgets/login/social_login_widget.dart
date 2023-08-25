@@ -17,7 +17,7 @@ class SocialLoginWidget extends StatelessWidget {
           child: AutoSizeText(t.welcome.rules),
         ),
         onPressed: ()async{
-          final Uri _url = Uri.parse('https://www.freeprivacypolicy.com/live/73937ab2-236b-4e0c-9124-9926ecfd27c9');
+          final Uri _url = Uri.parse('https://timeceptlink.com/private.html');
 
 
           await launchUrl(
