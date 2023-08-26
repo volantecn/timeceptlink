@@ -28,14 +28,21 @@
 		<string>LaunchScreen</string>
 		<key>UIMainStoryboardFile</key>
 		<string>Main</string>
+
+        <key>NSLocationAlwaysUsageDescription</key>
+        <string>TimeCept needs access your location when in the background to recommend restaurants,cinemas,shopping malls near you.</string>
 		<key>NSLocationWhenInUseUsageDescription</key>
-        <string>TimeCept  access your location to recommend restaurants,cinemas,shopping malls near you</string>
+        <string>TimeCept need access your location to recommend restaurants,cinemas,shopping malls near you.</string>
 		<key>UISupportedInterfaceOrientations</key>
 		<array>
 			<string>UIInterfaceOrientationPortrait</string>
 			<string>UIInterfaceOrientationLandscapeLeft</string>
 			<string>UIInterfaceOrientationLandscapeRight</string>
 		</array>
+		<key>io.flutter.embedded_views_preview</key>
+        <true/>
+		<key>NSCameraUsageDescription</key>
+        <string>TimeCept needs camera access to scan QR codes to add chat friends.</string>
 		<key>UISupportedInterfaceOrientations~ipad</key>
 		<array>
 			<string>UIInterfaceOrientationPortrait</string>
