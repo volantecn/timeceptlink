@@ -143,7 +143,7 @@ class LocationFactory extends GetxController{
 
       }else{
 
-        SmartDialog.show(builder: (_)=>Container(color: Colors.white,child: DisabledGeoTipsWidget(),));
+        //SmartDialog.show(builder: (_)=>Container(color: Colors.white,child: DisabledGeoTipsWidget(),));
         return null;
       }
 

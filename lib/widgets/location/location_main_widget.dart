@@ -41,7 +41,7 @@ class LocationMainWidget extends StatelessWidget {
               if(re??false){
                 return await LocationFactory.to.getCurrentPosition();
               }else{
-                await PopDialog.of(context).getLocationFailureTips();
+                //await PopDialog.of(context).getLocationFailureTips();
                 LocationFactory.to.setaskAgain(false);
                 return null;
               }
