@@ -28,7 +28,7 @@ class SettingMainWidget extends StatelessWidget {
             LanguageSelectionWidget(),
             ThemeSelectionWidget(),
 
-            AllowGetLocationSwitchWidget(),
+            //AllowGetLocationSwitchWidget(),
           ],
         ),
       ),
