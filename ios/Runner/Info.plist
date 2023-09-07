@@ -28,11 +28,14 @@
 		<string>LaunchScreen</string>
 		<key>UIMainStoryboardFile</key>
 		<string>Main</string>
-
         <key>NSLocationAlwaysUsageDescription</key>
         <string>TimeCept needs access your location when in the background to recommend restaurants,cinemas,shopping malls near you.</string>
 		<key>NSLocationWhenInUseUsageDescription</key>
         <string>TimeCept need access your location to recommend restaurants,cinemas,shopping malls near you.</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+        <string>TimeCept needs access your location to recommend restaurants,cinemas,shopping malls near you.</string>
+
+
 		<key>UISupportedInterfaceOrientations</key>
 		<array>
 			<string>UIInterfaceOrientationPortrait</string>
